@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  height: 100vh;
+  font-family: 'Arial', sans-serif;
+  background: url("fundo25.jpg");
+background-size: cover; 
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+  
+  .card {
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(10px);
+    padding: 30px;
+    border-radius: 15px;
+    text-align: center;
+    color: white;
+    width: 300px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+  
+  .perfil {
+    display: block;
+    width: 250px;
+    height: 250px;
+    margin: auto;
+    border-radius: 50px 25px;
+    box-shadow: 0 10px 20px -10px black;
+    transition: all .3s ease-in-out;
+  }
+  
+  h1 {
+    margin: 10px 0 5px;
+    font-size: 24px;
+  }
+  
+  h2 {
+    margin: 0 0 10px;
+    font-size: 18px;
+    color: #aaa;
+  }
+  
+  p {
+    margin-bottom: 20px;
+    color: #ccc;
+  }
+  
+  .icones {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+  }
+  
+  .icones img {
+    width: 40px;
+    transition: transform 0.3s ease;
+  }
+  
+  .icones img:hover {
+    transform: scale(1.2);
+  }
+  
