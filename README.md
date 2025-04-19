@@ -1,7 +1,7 @@
 <h1 align="center">💻 Portfólio Card</h1>
 
 <p align="center">
-  <img src="6a5e48e4-0c64-4fc4-bc25-04531a4beb06.png" width="400" alt="Preview do Projeto"/>
+  <img src="preview.png" width="400" alt="Preview do Projeto"/>
 </p>
 
 <p align="center">
@@ -11,26 +11,26 @@
 ---
 
 ## 🚀 Tecnologias
-- HTML5
-- CSS3
-- Responsividade
+- HTML5  
+- CSS3  
+- Responsividade  
 - Animações com Hover
 
 ---
 
 ## 🎯 Funcionalidades
-- Visual clean e profissional
+- Visual clean e profissional  
 - Links interativos para:
-  - WhatsApp
-  - LinkedIn
-  - Gmail
+  - WhatsApp  
+  - LinkedIn  
+  - Gmail  
   - GitHub
 
 ---
 
 ## 📸 Preview
 
-![Demo](6a5e48e4-0c64-4fc4-bc25-04531a4beb06.png)
+![Demo](preview.png)
 
 ---
 
@@ -47,8 +47,4 @@ Entre em contato comigo:
 📱 [WhatsApp](https://wa.me/5511961651633)
 
 ---
-
-<p align="center">
-  Feito com 💙 por <strong>Jediel Andrade</strong>
-</p>
 
