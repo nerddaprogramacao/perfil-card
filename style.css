@@ -1,29 +1,29 @@
 body {
+  background: url("fundo25.png");
+  background-size: cover; 
+  background-repeat: no-repeat;
+  background-position: center;
+  
   margin: 0;
   height: 100vh;
   font-family: 'Arial', sans-serif;
-  background: url("fundo25.jpg");
-background-size: cover; 
-  background-repeat: no-repeat;
-  background-position: center;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
+.card {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  padding: 30px;
+  border-radius: 15px;
+  text-align: center;
+  color: white;
+  width: 300px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease;
+}
 
-  
-  .card {
-    background: rgba(255, 255, 255, 0.05);
-    backdrop-filter: blur(10px);
-    padding: 30px;
-    border-radius: 15px;
-    text-align: center;
-    color: white;
-    width: 300px;
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
-    transition: transform 0.3s ease;
-  }
   
   .card:hover {
     transform: scale(1.05);
