@@ -36,7 +36,7 @@
 
 ## 🔗 Acesse o projeto online
 
-👉 [Clique aqui para visualizar](https://nerddaprogramacao.github.io/perfil-card/) *(altere esse link se necessário)*
+👉 [(https://nerddaprogramacao.github.io/perfil-card/)](https://nerddaprogramacao.github.io/perfil-card/) 
 
 ---
 
