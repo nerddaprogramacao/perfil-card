@@ -36,7 +36,7 @@
 
 ## 🔗 Acesse o projeto online
 
-👉 [(https://nerddaprogramacao.github.io/perfil-card/)](https://nerddaprogramacao.github.io/perfil-card/) 
+👉 [(https://jediel-dev.netlify.app/)](https://jediel-dev.netlify.app/ 
 
 ---
 
