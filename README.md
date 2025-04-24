@@ -36,7 +36,7 @@
 
 ## 🔗 Acesse o projeto online
 
-👉 [(https://jediel-dev.netlify.app/)](https://jediel-dev.netlify.app/ 
+👉 (https://jediel-dev.netlify.app/ 
 
 ---
 
